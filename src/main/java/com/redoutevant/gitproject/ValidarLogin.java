@@ -14,7 +14,7 @@ public class ValidarLogin {
 
     private String username;
 
-    private int active;
+    private int activo;
 
     public String getUsername() {
         return username;
@@ -29,10 +29,10 @@ public class ValidarLogin {
     }
 
     public int getActive() {
-        return active;
+        return activo;
     }
 
     public void setActive(int active) {
-        this.active = active;
+        this.activo = active;
     }
 }
