@@ -8,7 +8,7 @@ package com.redoutevant.gitproject;
 /**
  *
  * @author Luís Oliveira
- * @serial 2171026 09:47
+ * @serial 2171026 09:54
  */
 public class ValidarLogin {
 
@@ -26,6 +26,10 @@ public class ValidarLogin {
      */
     public void setUsername(String username) {
         this.username = username;
+    }
+    
+    public static void main(String[] args) {
+        
     }
 
 }
