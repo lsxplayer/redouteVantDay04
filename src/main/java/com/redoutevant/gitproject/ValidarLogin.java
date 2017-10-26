@@ -8,7 +8,7 @@ package com.redoutevant.gitproject;
 /**
  *
  * @author Luís Oliveira
- * @serial 2171026
+ * @serial 2171026 09:47
  */
 public class ValidarLogin {
 
